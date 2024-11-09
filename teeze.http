@@ -1,0 +1,6 @@
+@teeze_HostAddress = http://localhost:5170
+
+GET {{teeze_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
